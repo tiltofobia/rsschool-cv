@@ -1,2 +1,2 @@
 # rsschool-cv
-https://tiltofobia.github.io/rsschool-cv/cv
+https://wecandoittogether.github.io/rsschool-cv/cv
